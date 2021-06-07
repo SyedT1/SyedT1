@@ -1,6 +1,6 @@
 Currently I am Busy
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedT1)](https://github.com/SyedT1/github-readme-stats)
 
 
 
