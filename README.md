@@ -3,7 +3,7 @@
 ![S Tahsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedT1&show_icons=true&theme=dark)  
 
 -👋 Hi, I’m @SyedT1 
-- 👀 I’m interested in ... {**Machine Learning**,**AI**}
+
 <!---
 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...{Future Projects}
