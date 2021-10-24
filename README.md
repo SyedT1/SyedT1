@@ -1,8 +1,4 @@
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedT1&layout=compact)](https://github.com/SyedT1/github-readme-stats)
-
--👋 Hi, I’m @SyedT1 
-
+-👋 Hi!
 <!---
 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...{Future Projects}
