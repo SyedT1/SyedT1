@@ -1,7 +1,6 @@
 -👋 Hi! I'm Tahsin  
   
 **Update April 1st, 23'**  
-__I am learning NLP currently.__  
 
 # I {have interests,working on} in the following topics:
 + Machine Learning
