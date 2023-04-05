@@ -14,3 +14,5 @@
      - Algorithms
      - Data Structures
      - Problems related to Number Theory, Linear Algebra and Combinatorics
+
+![](https://data.typeracer.com/misc/badge?user=syedtahsin_)
