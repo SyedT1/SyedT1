@@ -15,6 +15,6 @@
      - Data Structures
      - Problems related to Number Theory, Linear Algebra and Combinatorics
 # Fun stuff I do in free time   
-      - Cracking these hacking challenges ![](https://tryhackme-badges.s3.amazonaws.com/crackjack101.png)
-      - Type racing with people all around the world ![](https://data.typeracer.com/misc/badge?user=syedtahsin_)
-      - Solving coding problems in codewars ![](https://www.codewars.com/users/SyedT1/badges/large)
+    + Cracking these hacking challenges ![](https://tryhackme-badges.s3.amazonaws.com/crackjack101.png)
+    + Type racing with people all around the world ![](https://data.typeracer.com/misc/badge?user=syedtahsin_)
+    + Solving coding problems in codewars ![](https://www.codewars.com/users/SyedT1/badges/large)
