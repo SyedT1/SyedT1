@@ -15,4 +15,5 @@
      - Data Structures
      - Problems related to Number Theory, Linear Algebra and Combinatorics
 + Fun stuff I do in free time
-    - ![](https://data.typeracer.com/misc/badge?user=syedtahsin_)
+    
+    ![](https://data.typeracer.com/misc/badge?user=syedtahsin_)
