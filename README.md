@@ -11,7 +11,7 @@
      - Trying to work on things from scratch. Check this [**repository**](https://github.com/SyedT1/myNLPnotes) for further details
 + BlockChain
      - working on a bootcamp from [**Alchemy University**](https://university.alchemy.com/home)
-+ Cloud Computing
++ Quantum Computing [**Currently Enrolled in a bootcamp**]
 + Problem Solving
      - Algorithms
      - Data Structures
