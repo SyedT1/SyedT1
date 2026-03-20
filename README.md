@@ -13,4 +13,4 @@
    
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SyedT1&theme=dark&hide_border=true)](https://github.com/SyedT1)<!-- GitHub Stats -->
 [![Tahsin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedT1&show_icons=true&theme=dark)](https://github.com/SyedT1)
-
+![CF Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Striking_Ratio&theme=dark)
