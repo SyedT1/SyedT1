@@ -13,4 +13,4 @@
    
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SyedT1&theme=dark&hide_border=true)](https://github.com/SyedT1)<!-- GitHub Stats -->
 ![CF Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Striking_Ratio&theme=dark)
-![GitHub Chart](https://ghchart.rshah.org/SyedT1)
+![3D Contrib](https://raw.githubusercontent.com/SyedT1/SyedT1/main/profile-3d-contrib/profile-night-rainbow.svg)
